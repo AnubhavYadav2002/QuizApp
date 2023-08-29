@@ -34,5 +34,5 @@ allowing users to select their responses. The application provides immediate fee
 ## Acknowledgments
 This quiz app was developed as a learning project and was inspired by various online tutorials and resources.
 ---
-##Screenshot
+#Screenshot
 ![Screenshot 2023-08-29 023428](https://github.com/AnubhavYadav2002/QuizApp/assets/122744257/f66dfaac-3f0a-494c-a57b-28e7c39aea51)
